@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="ResourceNavigator">
+		<item value="Aggregate for window 1411040608640" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
+		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
+	</section>
 	<section name="CleanDialogSettings">
 		<item value="484" key="DIALOG_WIDTH"/>
-		<item value="530" key="DIALOG_Y_ORIGIN"/>
-		<item value="354" key="DIALOG_HEIGHT"/>
+		<item value="true" key="BUILD_NOW"/>
+		<item value="true" key="BUILD_ALL"/>
+		<item value="473" key="DIALOG_Y_ORIGIN"/>
 		<item value="347" key="DIALOG_X_ORIGIN"/>
+		<item value="423" key="DIALOG_HEIGHT"/>
 		<item value="false" key="TOGGLE_SELECTED"/>
 	</section>
 </section>
