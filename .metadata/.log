@@ -233,3 +233,16 @@ freemarker.core.InvalidReferenceException: Expression resOut is undefined on lin
 
 !ENTRY com.android.ide.eclipse.adt 4 0 2014-09-18 13:45:43.571
 !MESSAGE Failed to load properties file for project 'VägenTillKörkort'
+!SESSION 2014-09-18 13:52:54.898 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=sv_SE
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/Nichoglass/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/Nichoglass/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-09-18 13:53:02.211
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2014-09-18 13:53:06.069
+!MESSAGE projectOpenedWithWorkspace: failed to find manifest package for project VägenTillKörkort
